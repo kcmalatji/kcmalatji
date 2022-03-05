@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kcmalatji
 - 👀 I’m interested in ...Car racing , Pool and motor sport
-- 🌱 I’m currently learning ... Ionic and angular
+- 🌱 I’m currently learning ... flutter mobile development
 - 💞️ I’m looking to collaborate on ... Hybrid Mobile applications
 - 📫 How to reach me ... kcmalatji@gmail.com / call +27814451351/ whatsapp 0722224704
 
